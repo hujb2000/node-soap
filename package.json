@@ -1,6 +1,6 @@
 {
   "name": "icp-node-soap",
-  "version": "0.13.0",
+  "version": "0.13.1",
   "description": "A minimal node SOAP client",
   "engines": {
     "node": ">=0.10.0"
